@@ -8,6 +8,14 @@ The system was built covering the full workflow from database design to deployme
 
 ---
 
+## Injury Tracker – Web Application
+This project is a **web-based Injury Tracker system** designed to help manage and analyze athlete injury data.  
+It allows users to record, track, and analyze injuries, treatments, and recovery progress for individual athletes.
+
+The system provides a centralized platform for **injury history management, status monitoring, and prevention insights**, with integrated search and filtering tools.
+
+---
+
 ## Objectives
 - Design a complete database-driven web application
 - Apply ER modeling and relational schema design
